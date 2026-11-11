@@ -1,0 +1,3 @@
+# Cegah eksekusi script di folder upload
+php_flag engine off
+Options -ExecCGI
